@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/Shamanchi/agent-customer-support/actions/workflows/ci.yml/badge.svg)](https://github.com/Shamanchi/agent-customer-support/actions/workflows/ci.yml)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue)](https://hub.docker.com/r/shamanchi/agent-customer-support)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: Shamanchi](https://img.shields.io/badge/License-Shamanchi-green.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 
 **ИИ-агент для автоматизации поддержки клиентов** — классификация тикетов, генерация ответов, эскалация к человеку, интеграция с CRM/Helpdesk.
