@@ -194,8 +194,7 @@ agent-customer-support/
 
 ## 📄 Лицензия
 
-MIT — см. [LICENSE](LICENSE).
-
+Лицензия Shamanchi 1.0 (source-available) — см. [LICENSE](LICENSE).
 ---
 
 ## 📞 Контакты
